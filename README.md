@@ -11,7 +11,7 @@ I'm Kenneth, a Junior Data Scientist with a background in Electrical and Telecom
 - Develop solutions using **Python, pandas, scikit-learn, and Tableau**.  
 
 ## 📫 Connect with Me
-- [LinkedIn](www.linkedin.com/in/kenneth-nyangweso)  
+- [LinkedIn](https://www.linkedin.com/in/kenneth-nyangweso-4b429b242/)  
 - [Portfolio](https://github.com/kennethnyangweso)  
 - Email: kennethnyangweso99@gmail.com  
 
