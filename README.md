@@ -8,7 +8,7 @@ I'm Kenneth, a Junior Data Scientist with a background in Electrical and Telecom
 
 ## 🚀 What I Do
 - Work on projects involving **Natural Language Processing (NLP), Large Language Models (LLMs), Geographic Information Systems (GIS), and predictive modeling**.  
-- Develop solutions using **Python, pandas, scikit-learn, and Tableau**.  
+- Develop solutions using **Python, pandas, scikit-learn, Tensorflow and Tableau**.  
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kenneth-nyangweso-4b429b242/)  
