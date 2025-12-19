@@ -94,3 +94,6 @@ Geospatial analysis project to determine optimal locations for solar installatio
 
 🔗 Repo: <https://github.com/kennethnyangweso/Solar-Farm-Site-Suitability-Analysis-with-GIS-and-Machine-Learning>
 
+## 💻 Deployment App Demo
+
+[![Watch the demo](screenshot_or_gif.png)](https://www.loom.com/share/b01e2ae5989b4c7d81b65b091ab17c7a))
