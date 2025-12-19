@@ -45,7 +45,7 @@ I’m Kenneth, a Full-Stack Data Scientist with a foundation in Electrical and T
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## ⭐ Featured Projects
+## ⭐ Top Featured Projects
 
 ### 🧠 Hate Speech Detection (NLP)
 End-to-end NLP system for classifying hateful and offensive content using Machine Learning / Deep Learning models.
