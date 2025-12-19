@@ -20,7 +20,7 @@ I’m Kenneth, a Full-Stack Data Scientist with a foundation in Electrical and T
 ## ⚡ Fun Fact
 - I enjoy exploring datasets, creating interactive dashboards, and experimenting with new AI tools.
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -29,33 +29,68 @@ I’m Kenneth, a Full-Stack Data Scientist with a foundation in Electrical and T
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 
-### 📊 Data Visualization & BI
+## 📊 Data Visualization & BI
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge)
 
-### 🚀 ML App Deployment
+## 🚀 ML App Deployment
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 🌐 Frontend
+## 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<!--
-**kennethnyangweso/kennethnyangweso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⭐ Featured Projects
 
-Here are some ideas to get you started:
+### 🧠 Hate Speech Detection (NLP)
+End-to-end NLP system for classifying hateful and offensive content using Machine Learning / Deep Learning models.
+- Built text preprocessing + modeling pipeline
+- Compared traditional ML vs transformers
+- Achieved strong classification performance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Repo: <https://github.com/kennethnyangweso/HATESPEECH-DETECTION-with-AI>
+
+---
+
+### 📞 Customer Churn Prediction – Telecommunications
+Predicts which customers are likely to leave and identifies key churn drivers to support business decisions.
+- Machine learning classification + feature engineering
+- Model explainability and business impact focus
+- Includes deployment component
+
+🔗 Repo: <https://github.com/kennethnyangweso/Project-Predicting-customer-churn-in-the-Telecommunications-Industry>
+
+---
+
+### 🚦 Traffic Flow Detection & Analysis (Computer Vision)
+A computer vision project that uses **YOLOv5 with transfer learning** to detect and analyze vehicle traffic from video footage.
+
+- Built an object detection pipeline to identify vehicles in real time
+- Applied transfer learning on YOLOv5 for improved accuracy
+- Supports smart city planning, surveillance, and traffic management use cases
+
+🔗 Repo: <https://github.com/kennethnyangweso/Traffic-Flow-Analysis-with-Computer-Vision>
+
+---
+
+### 📡 Cellular Network Performance Analysis
+Analyzes network throughput, latency, and signal quality to understand telecom performance.
+- Regression + classification modeling
+- Insight-driven analysis for network optimization
+
+🔗 Repo: <https://github.com/kennethnyangweso/Cellular-Network-Analysis-with-Machine-Learning>
+
+---
+
+### ☀️ Solar Site Suitability – GIS
+Geospatial analysis project to determine optimal locations for solar installation.
+- GIS spatial modeling & multi-criteria decision analysis
+- Real-world environmental + energy relevance
+
+🔗 Repo: <https://github.com/kennethnyangweso/Solar-Farm-Site-Suitability-Analysis-with-GIS-and-Machine-Learning>
+
