@@ -8,7 +8,7 @@ I’m Kenneth, a Full-Stack Data Scientist with a foundation in Electrical and T
 
 ## 🚀 What I Do
 
-- Build data-driven solutions leveraging **Natural Language Processing (NLP), Large Language Models (LLMs), Geographic Information Systems (GIS), and predictive modeling**.
+- Build data-driven solutions leveraging **Natural Language Processing (NLP), Large Language Models (LLMs), Computer Vision, Geographic Information Systems (GIS), and predictive modeling**.
 
 - Develop and deploy analytics and machine learning solutions using **Python, pandas, scikit-learn, TensorFlow, and Tableau**.
 
