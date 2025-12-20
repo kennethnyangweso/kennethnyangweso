@@ -18,7 +18,7 @@ I’m Kenneth, a Full-Stack Data Scientist with a foundation in Electrical and T
 - Email: kennethnyangweso99@gmail.com  
 
 ## ⚡ Fun Fact
-- I enjoy exploring datasets, creating interactive dashboards, and experimenting with new AI tools.
+- I enjoy exploring datasets, building models, and experimenting with new AI tools.
 
 ## 🛠️ Tech Stack
 
