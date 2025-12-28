@@ -15,7 +15,12 @@ I’m Kenneth, a Full-Stack Data Scientist with a foundation in Electrical and T
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kenneth-nyangweso-4b429b242/)  
 - [Portfolio](https://github.com/kennethnyangweso)  
-- Email: kennethnyangweso99@gmail.com  
+- Email: kennethnyangweso99@gmail.com
+
+## 📄 Download My CV
+
+(https://acrobat.adobe.com/id/urn:aaid:sc:EU:16b16486-645d-4c7c-95a0-efe8de97bbbc)
+
 
 ## ⚡ Fun Fact
 - I enjoy exploring datasets, building models, and experimenting with new AI tools.
