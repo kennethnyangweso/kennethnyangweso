@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I’m Kenneth, a Full-Stack Data Scientist with a foundation in Electrical and Telecommunications Engineering. I build end-to-end AI and data solutions from data exploration and predictive modeling to deployment, MLOps, and scalable production systems.
+I’m Kenneth, a Full-Stack Data Scientist and a graduate Electrical and Telecommunications Engineer. I build end-to-end AI and data solutions from data exploration and predictive modeling to deployment, MLOps, and scalable production systems.
 
 ## 🔬 About Me
 
