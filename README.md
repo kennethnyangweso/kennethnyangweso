@@ -16,7 +16,7 @@ I’m Kenneth, a Full-Stack Data Scientist and a graduate Electrical and Telecom
 - [LinkedIn](https://www.linkedin.com/in/kenneth-nyangweso-4b429b242/)  
 - [Portfolio](https://github.com/kennethnyangweso)  
 - Email: kennethnyangweso99@gmail.com
-- My portfolio website: kenneth-nyangweso-portfolio.netlify.app
+- My portfolio website: [kenneth-nyangweso-portfolio.netlify.app](https://kenneth-nyangweso-portfolio.netlify.app/)
 
 ## 📄 Download My CV
 
