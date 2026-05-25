@@ -8,36 +8,24 @@ I’m Kenneth, a Full-Stack Data Scientist and a graduate Electrical and Telecom
 
 ## 🚀 What I Do
 
-- Build data-driven solutions leveraging **Natural Language Processing (NLP), Large Language Models (LLMs), Computer Vision, Geographic Information Systems (GIS), and predictive modeling**.
+- Build data-driven solutions leveraging **Natural Language Processing (NLP), Large Language Models (LLMs), Retrieval Augmented Generation(RAG) Systems, Computer Vision, Geographic Information Systems (GIS), and predictive modeling**.
 
 - Develop and deploy analytics and machine learning solutions using **Python, pandas, scikit-learn, TensorFlow, and Tableau**.
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/kenneth-nyangweso-4b429b242/)  
-- [Portfolio](https://github.com/kennethnyangweso)  
+- [LinkedIn](https://www.linkedin.com/in/kenneth-nyangweso-4b429b242/)
 - Email: kennethnyangweso99@gmail.com
 - My portfolio website: [kenneth-nyangweso-portfolio.netlify.app](https://kenneth-nyangweso-portfolio.netlify.app/)
-
-## 📄 Download My CV
-
-(https://acrobat.adobe.com/id/urn:aaid:sc:EU:16b16486-645d-4c7c-95a0-efe8de97bbbc)
-
-
-## ⚡ Fun Fact
-- I enjoy exploring datasets, building models, and experimenting with new AI tools.
 
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&labelColor=013243)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-## 🛢️ Databases
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)
-
 
 ## 📊 Data Visualization & BI
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
